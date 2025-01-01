@@ -7,9 +7,9 @@ English &nbsp; | &nbsp; [Chinese]()
 
 > Projects marked ✅ have completed all questions; projects not marked have not completed all questions.
 
-### [Array]()
+### [Array](./problems/array)
 
-### [String]()
+### [String](./problems/string)
 
 ### [Hash Table]()
 
