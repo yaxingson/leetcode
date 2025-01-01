@@ -1,6 +1,6 @@
 # leetcode
 
-English &nbsp; | &nbsp; [Chinese]()
+English &nbsp; | &nbsp; [Chinese](./REAME.zh-CN.md)
 
 
 ## Problems
