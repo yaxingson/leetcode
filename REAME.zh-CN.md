@@ -1,6 +1,6 @@
 # leetcode
 
-[English](./README.md) &nbsp; | &nbsp; Chinese
+[英文](./README.md) &nbsp; | &nbsp; 简体中文
 
 
 ## 问题
